@@ -1,0 +1,264 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mrivasvaladez.com" resolutions="1x" timestamp="1561232432739">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="contact.css" crc="3905192229" ref="contact"/>
+    <file name="food.css" crc="357282665" ref="food"/>
+    <file name="index.css" crc="187497525" ref="index"/>
+    <file name="music.css" crc="3886894054" ref="music"/>
+    <file name="portfolio.css" crc="3867282027" ref="portfolio"/>
+    <file name="pdf-resume.css" crc="3775047336" ref="pdf-resume"/>
+    <file name="resume.css" crc="178849747" ref="resume"/>
+  </folder>
+  <folder name="assets">
+    <file name="resume_2019n.pdf" crc="166378819" seo="true" mt="1549743707000"/>
+    <file name="pdf-embedder.mulib" crc="468121637" seo="true" mt="1524621986000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:portfolio:resume:contact:music:pdf-resume:food"/>
+    <file name="museutils.js" crc="340535759" ref="index:portfolio:resume:contact:music:pdf-resume:food"/>
+    <file name="whatinput.js" crc="86476730" ref="index:portfolio:resume:contact:music:pdf-resume:food"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:portfolio:resume:contact:music:pdf-resume:food"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:portfolio:resume:contact:music:pdf-resume:food"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index:portfolio:resume:contact:music:pdf-resume:food"/>
+    <file name="webpro.js" crc="4059564322" ref="portfolio:resume"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="portfolio"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="portfolio"/>
+    <file name="touchswipe.js" crc="4075097462" ref="portfolio"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="resume"/>
+  </folder>
+  <folder name="images">
+    <file name="pasted-svg-251567x226.svg" crc="526668650" seo="true" ref="index:portfolio:resume:contact:music:pdf-resume:food">
+      <caption webpage="pdf-resume" alt=""/>
+      <caption webpage="food" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="music" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="pasted svg 251567x226_poster_.png" crc="3805983618" ref="index"/>
+    <file name="pasted-svg-237223x210.svg" crc="3829947302" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 237223x210_poster_.png" crc="4234184367" ref="index"/>
+    <file name="u1432-4.png" crc="4056540834" ref="index"/>
+    <file name="u4403-4.png" crc="375155466" ref="index"/>
+    <file name="u1636-4.png" crc="4205578918" ref="index"/>
+    <file name="u1633-4.png" crc="4242907158" ref="index"/>
+    <file name="pasted-svg-465027x307.svg" crc="437245797" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 465027x307_poster_.png" crc="4064127804" ref="index"/>
+    <file name="pasted-svg-268618x188.svg" crc="442914273" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 268618x188_poster_.png" crc="4163741138" ref="index"/>
+    <file name="pasted-svg-197811x116.svg" crc="4012036040" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 197811x116_poster_.png" crc="4266005849" ref="index"/>
+    <file name="u4490-4.png" crc="257065403" ref="index"/>
+    <file name="gdp-hw3-michaelrivasvaladez-1-crop-u1908.jpg" crc="528288678" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="gdp-hw3-michaelrivasvaladez-3-crop-u1906.jpg" crc="21722003" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="gdp-hw3-michaelrivasvaladez-2-crop-u1910.jpg" crc="3921691605" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="u1899-6.png" crc="4254110828" ref="portfolio"/>
+    <file name="u1900-6.png" crc="107930852" ref="portfolio"/>
+    <file name="u1898-6.png" crc="127357410" ref="portfolio"/>
+    <file name="gdp-hw3-michaelrivasvaladez-1.jpg" crc="4134242430" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="portfolio:resume"/>
+    <file name="gdp-hw3-michaelrivasvaladez-3.jpg" crc="4045638939" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="gdp-hw3-michaelrivasvaladez-2.jpg" crc="300561252" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="portfolio"/>
+    <file name="gdp-hw4-michaelrivasvaladez-01.jpg" crc="4167155236" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="gdp-midterm-michaelrivasvaladez-01.jpg" crc="3908241081" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="rssp student job fair-01.jpg" crc="4232652424" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="u2855-6.png" crc="529540670" ref="portfolio"/>
+    <file name="u2853-8.png" crc="264518493" ref="portfolio"/>
+    <file name="u2854-8.png" crc="3973643469" ref="portfolio"/>
+    <file name="gdp-hw4-michaelrivasvaladez-01-crop-u2865.jpg" crc="4064797941" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="gdp-midterm-michaelrivasvaladez-01-crop-u2861.jpg" crc="3912907980" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="rssp student job fair-01-crop-u2863.jpg" crc="281414238" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="job fair ad_1117-01.jpg" crc="353679860" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="cooking challenge-01.jpg" crc="321962457" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="film festival-01.jpg" crc="235343000" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="u2191-8.png" crc="3878409341" ref="portfolio"/>
+    <file name="u2192-6.png" crc="276607781" ref="portfolio"/>
+    <file name="u2193-8.png" crc="431082971" ref="portfolio"/>
+    <file name="job fair ad_1117-01-crop-u2213.jpg" crc="467216874" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="cooking challenge-01-crop-u2209.jpg" crc="3771906267" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="film festival-01-crop-u2211.jpg" crc="4278360732" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="spring training events-01-crop-u2540.jpg" crc="535561086" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="logo-01-crop-u2536.jpg" crc="230302103" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="holiday hours-01-crop-u2538.jpg" crc="3762164311" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="u2530-8.png" crc="3876027279" ref="portfolio"/>
+    <file name="u2528-8.png" crc="3774238626" ref="portfolio"/>
+    <file name="u2529-8.png" crc="3941960711" ref="portfolio"/>
+    <file name="spring training events-01.jpg" crc="4192849131" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="logo-01.jpg" crc="219959838" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="holiday hours-01.jpg" crc="3983300067" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="cross contact-01-crop-u2614.jpg" crc="3868006798" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="student hiring new-01-crop-u2616.jpg" crc="4275867938" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="menu fit-01-crop-u2612.jpg" crc="24129437" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="cross contact-01.jpg" crc="186186657" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="student hiring new-01.jpg" crc="119372808" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="menu fit-01.jpg" crc="340263876" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="u2628-8.png" crc="4041221507" ref="portfolio"/>
+    <file name="u2629-8.png" crc="4207507927" ref="portfolio"/>
+    <file name="u2627-8.png" crc="4210756270" ref="portfolio"/>
+    <file name="u3220-4.png" crc="4120151385" ref="resume"/>
+    <file name="resume_2018_belkin_jpg.jpg" crc="4189282608" seo="true" ref="resume">
+      <caption webpage="resume" alt=""/>
+    </file>
+    <file name="u3372.png" crc="334240042" ref="resume"/>
+    <file name="u3372-r.png" crc="379321419" ref="resume"/>
+    <file name="u3372-m.png" crc="379321419" ref="resume"/>
+    <file name="u3372-a.png" crc="4226832741" ref="resume"/>
+    <file name="u3374-13.png" crc="351213940" ref="resume"/>
+    <file name="u3368.png" crc="92991403" ref="resume"/>
+    <file name="u3368-r.png" crc="4023870792" ref="resume"/>
+    <file name="u3368-m.png" crc="4023870792" ref="resume"/>
+    <file name="u3368-a.png" crc="4285651522" ref="resume"/>
+    <file name="u3370-106.png" crc="4008163957" ref="resume"/>
+    <file name="u3404.png" crc="517983923" ref="resume"/>
+    <file name="u3404-r.png" crc="154035919" ref="resume"/>
+    <file name="u3404-m.png" crc="154035919" ref="resume"/>
+    <file name="u3404-a.png" crc="263931899" ref="resume"/>
+    <file name="u3421-24.png" crc="179107469" ref="resume"/>
+    <file name="u3433.png" crc="3900961480" ref="resume"/>
+    <file name="u3433-r.png" crc="3781811498" ref="resume"/>
+    <file name="u3433-m.png" crc="3781811498" ref="resume"/>
+    <file name="u3433-a.png" crc="3765963088" ref="resume"/>
+    <file name="u3455-6.png" crc="4207408977" ref="resume"/>
+    <file name="u3444.png" crc="120543860" ref="resume"/>
+    <file name="u3444-r.png" crc="4113336682" ref="resume"/>
+    <file name="u3444-m.png" crc="4113336682" ref="resume"/>
+    <file name="u3444-a.png" crc="426430849" ref="resume"/>
+    <file name="u3452-6.png" crc="4179822333" ref="resume"/>
+    <file name="u3473.png" crc="3894882909" ref="resume"/>
+    <file name="u3473-r.png" crc="4251257336" ref="resume"/>
+    <file name="u3473-m.png" crc="4251257336" ref="resume"/>
+    <file name="u3473-a.png" crc="267350174" ref="resume"/>
+    <file name="u3481-18.png" crc="3791740322" ref="resume"/>
+    <file name="u3526-16.png" crc="108673259" ref="contact"/>
+    <file name="pasted image 900x900.png" crc="249259436" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="u4002-4.png" crc="4155262275" ref="music"/>
+    <file name="u4005-4.png" crc="3894037424" ref="music"/>
+    <file name="u4008-4.png" crc="28080757" ref="music"/>
+    <file name="u4026-4.png" crc="3848719373" ref="music"/>
+    <file name="u4034-4.png" crc="324991573" ref="music"/>
+    <file name="u4683-4.png" crc="450497906" ref="music"/>
+    <file name="u4695-4.png" crc="4090871449" ref="music"/>
+    <file name="u3259-6.png" crc="168015960" ref="pdf-resume"/>
+    <file name="u3545-4.png" crc="4382217" ref="pdf-resume"/>
+    <file name="u4096-4.png" crc="4002413121" ref="food"/>
+  </folder>
+  <file name="index.html" crc="498592255" seo="true" mt="1561231168482" redirect="true"/>
+  <file name="portfolio.html" crc="307062945" seo="true" mt="1561231146482" redirect="true"/>
+  <file name="resume.html" crc="420164672" seo="true" mt="1561232431193" redirect="true"/>
+  <file name="contact.html" crc="259131905" seo="true" mt="1524390239365" redirect="true"/>
+  <file name="music.html" crc="282521184" seo="true" mt="1561231807163" redirect="true"/>
+  <file name="pdf-resume.html" crc="4231703336" seo="true" mt="1561231494479" redirect="true"/>
+  <file name="food.html" crc="478894817" seo="true" mt="1524628695045" redirect="true"/>
+</manifest>
